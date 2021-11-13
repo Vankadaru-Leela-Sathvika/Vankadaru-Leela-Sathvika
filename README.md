@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vankadaru-Leela-Sathvika
-- 👀 I’m interested in Web Design Projects for now
+- 👀 I’m interested in Web Design, Data Science and Machine Learning Projects for now
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript, etc........
-- 💞️ I’m looking to collaborate on nothing as of now
+- 💞️ I’m looking to collaborate on python and related projects as of now
 - 📫 Reach me here......
 
 <!---
