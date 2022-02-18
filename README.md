@@ -1,6 +1,6 @@
 # Hi 👋, I am Leela Sathvika Vankadaru
 
-<img align="right" width="250px" style="border-radius:50%;" src="bitmoji.png">
+<img align="right" width="200px" style="border-radius:50%;" src="bitmoji.png">
 
 ![profile views](https://komarev.com/ghpvc/?username=Vankadaru-Leela-Sathvika&style=plastic&label=views)
 
