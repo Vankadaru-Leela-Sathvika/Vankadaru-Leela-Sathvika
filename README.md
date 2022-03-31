@@ -16,7 +16,7 @@
 - Coding is 💖
 - Problem-Solving is Passion.
 - Budding software developer 🌱
-- I am into Web Development, Cloud Computing, Artificial Intelligence and Machine Learning.
+- I am into Web Design and Development, Cloud Computing, Artificial Intelligence and Machine Learning.
 - Open to Collaborate on projects and competitions.
 
 <br>
